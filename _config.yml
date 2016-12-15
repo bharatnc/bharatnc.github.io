@@ -11,7 +11,7 @@ title:               Bharat Nallan
 description:         Bharat Nallan's blog...
 url: https://bharatnc.github.io
 baseurl: "/bharatnc.github.io"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+urlimg: https://github.com/bharatnc/bharatnc.github.io/blob/master/profile_pic.JPG
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
