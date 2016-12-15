@@ -11,7 +11,7 @@ title:               Bharat Nallan
 description:         Bharat Nallan's blog...
 url: https://bharatnc.github.io
 baseurl: "/bharatnc.github.io"
-urlimg: https://bharatnc.github.io/images
+urlimg: https://bharatnc.github.io/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
