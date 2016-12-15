@@ -11,7 +11,6 @@ tags:
   - research
 comments: true
 modified: "2016-02-13"
-bibtex: "/files/mypubs.bib"
 show_meta: true
 noindex: false
 nofollow: true
