@@ -9,8 +9,8 @@ relative_permalinks: false
 title:               Bharat Nallan
 #tagline:             'foo's website
 description:         Bharat Nallan's blog...
-url: https://bhna2713.github.io
-baseurl: "/bhna2713.github.io"
+url: https://bharatnc.github.io
+baseurl: "/bharatnc.github.io"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 paginate: 5
