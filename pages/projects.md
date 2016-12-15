@@ -1,7 +1,7 @@
 ---
 layout: page
 category: projects
-permalink: /about/projects/
+permalink: /about/publications/
 title: "Projects
 published: true
 description: "Projects page"
@@ -12,7 +12,6 @@ tags:
 comments: true
 modified: "2016-02-13"
 bibtex: "/files/mypubs.bib"
-#bibtex: "http://foo-alternate.com/files/mypubs.bib"
 show_meta: true
 noindex: false
 nofollow: true
