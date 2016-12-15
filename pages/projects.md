@@ -1,7 +1,7 @@
 ---
 layout: page
 category: projects
-permalink: /about/publications/
+permalink: /about/projects/
 title: "Projects
 published: true
 description: "Projects page"
