@@ -30,7 +30,7 @@ style: |
 </span>
 
 {:.text-center}
-[Projects]({{ site.url }}/about/projects/) \| [Github profile](https://github.com/{{ site.owner.github }})  
+[Github profile](https://github.com/{{ site.owner.github }})  
 
 <!-- Alternaetly, user html5 embed tag -->
 <iframe src="{{ site.url }}/files/cv.pdf" width="100%" style="height: 100vh;"></iframe>
