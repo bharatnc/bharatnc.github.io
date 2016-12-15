@@ -8,9 +8,9 @@ description: "I decided to teach myself Ansible, which I wanted to have hands-on
 category:
   - views
   - featured
-tags:
-  - examples
-  - common_tag
+#tags:
+  #- examples
+  #- common_tag
 show_meta: true
 comments: true
 mathjax: true

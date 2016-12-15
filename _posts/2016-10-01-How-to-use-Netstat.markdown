@@ -7,9 +7,9 @@ description: "Netstat stands for network statistics. This is a Linux command lin
 category:
   - views
   - featured
-tags:
-  - examples
-  - common_tag
+#tags:
+  #- examples
+  #- common_tag
 show_meta: true
 comments: true
 mathjax: true

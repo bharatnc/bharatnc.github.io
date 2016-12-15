@@ -7,9 +7,9 @@ description: "Setting up your Raspberry Pi 3 as a Wireless Access Point is quite
 category:
   - views
   - featured
-tags:
-  - examples
-  - common_tag
+#tags:
+#  - examples
+#  - common_tag
 show_meta: true
 comments: true
 mathjax: true

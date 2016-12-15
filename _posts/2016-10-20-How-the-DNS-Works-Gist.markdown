@@ -8,9 +8,9 @@ category:
   - views
   - featured
 # tags will also be used as html meta keywords.
-tags:
-  - examples
-  - common_tag
+#tags:
+  #- examples
+  #- common_tag
 show_meta: true
 comments: true
 mathjax: true
