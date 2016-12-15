@@ -3,7 +3,7 @@ layout: post
 title: "How to use Netstat - Cheat Sheet"
 date: "2016-10-01"
 slug: "example_content"
-description: "Netstat stands for "network statistics". This is a Linux command line application tool, that is really handy for getting information about network statistics and services running in any  machine. Trying to learn this tool, I ended up preparing a cheat sheet, which I am going to share here. As an advice, I would always recommend referring the <b>Linux manpage</b> for learning this tool the right-way. Once you have learnt the tool, this cheat sheet can come-in handy at most of the times."
+description: "Netstat stands for network statistics. This is a Linux command line application tool, that is really handy for getting information about network statistics and services running in any  machine. Trying to learn this tool, I ended up preparing a cheat sheet, which I am going to share here. As an advice, I would always recommend referring the <b>Linux manpage</b> for learning this tool the right-way. Once you have learnt the tool, this cheat sheet can come-in handy at most of the times."
 category:
   - views
   - featured
