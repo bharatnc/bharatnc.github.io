@@ -33,14 +33,14 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              Bharat Nallan
+  url:               https://twitter.com/bharatnc
   avatar:         foo.png
   #email:
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           Bharat Nallan
   avatar:         foo.png
   #email:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -54,10 +54,10 @@ owner:
   instagram:
   flickr:
   tumblr:
-  google_plus:    https://plus.google.com/+foo
+  google_plus:    https://plus.google.com/u/0/111319225581872704429
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  # orcid: xyz123abc
+  # gscholar: xyz123abc
 
 ## sidebar links:
 # For external links add external: true
@@ -91,7 +91,7 @@ links:
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: Bharat
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   xyz123abc
