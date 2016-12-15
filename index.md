@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Bharat Nallan
+title: Blog
 description: "Blogging on ...."
 ---
 
