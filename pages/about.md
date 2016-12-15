@@ -39,5 +39,6 @@ I like developing applications in general, and I am most intrigued about large a
 Apart from Linux Systems, I also develop web-applications. I have some extensive experience working with Python and PHP developing applications. I have used Flask and Django in the past and have also deployed a couple of applications onto Amazon AWS. Now a new found interest in Systems and Network programming. I am trying my best to work on open source softwares and I am really excited to contribute something to the open-source community!<br>
 <br>
 
-You could take a look at my Resume [here].
+You can take a look at my Resume [here] .
+
 [here]: http://www.bharatnc.com/cv/
