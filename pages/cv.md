@@ -28,9 +28,9 @@ style: |
 <a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="fa fa-linkedin"></i></a>
 <a href="{{ site.url }}/files/cv.pdf" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
 </span>
-<!--
+
 {:.text-center}
-[Publications]({{ site.url }}/about/publications/) \| [ORCID profile](https://orcid.org/{{ site.owner.orcid }}) \| [Google Scholar profile](https://scholar.google.com/citations?user={{ site.owner.gscholar }}&hl=en)  -->
+[Projects]({{ site.url }}/about/projects/) \| [Github profile](https://github.com/bharatnc/{{ site.owner.github }})&hl=en)  
 
 <!-- Alternaetly, user html5 embed tag -->
 <iframe src="{{ site.url }}/files/cv.pdf" width="100%" style="height: 100vh;"></iframe>
