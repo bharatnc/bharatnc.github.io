@@ -35,13 +35,13 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Foo Boo
   url:               https://twitter.com/bharatnc
-  avatar:         foo.png
+  avatar:         profile_pic.JPG
   #email:
 
 # Owner/author information
 owner:
   name:           Foo Boo
-  avatar:         foo.png
+  avatar:         profile_pic.JPG
   #email:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
