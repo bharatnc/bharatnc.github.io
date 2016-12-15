@@ -7,7 +7,7 @@ relative_permalinks: false
 
 # Setup
 title:               Bharat Nallan
-#tagline:             'foo's website
+#tagline:             'Bharat's website
 description:         Bharat Nallan's blog...
 url: https://bharatnc.github.io
 baseurl: "/bharatnc.github.io"
