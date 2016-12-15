@@ -37,7 +37,7 @@ Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](h
 {% endif %}
 
 <div class="posts">
-  {% for post in site.categories.featured limit:2 %}
+  {% for post in site.categories.featured limit:10 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.url }}{{ post.url }}">
