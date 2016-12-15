@@ -11,7 +11,7 @@ title:               Bharat Nallan
 description:         Bharat Nallan's blog...
 url: https://bharatnc.github.io
 baseurl: "/bharatnc.github.io"
-urlimg: https://github.com/bharatnc/bharatnc.github.io/blob/master/profile_pic.JPG
+urlimg: https://bharatnc.github.io/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -80,8 +80,8 @@ links:
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 
-Google Custom Search:
-google_search: 014701362723344243601:rmuhfbw2fqm
+# Google Custom Search:
+#google_search: xyz123abc
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
