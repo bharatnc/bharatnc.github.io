@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How DNS Works?"
+title: "How DNS Works"
 date: "2016-10-20"
 slug: "example_content"
 description: "The Domain Name System or the DNS is a resolution protocol for mapping the domain name of a server to its ip address. Putting this term in much simpler words, DNS can also be viewed as the system that can help map much difficult to remember IP Addresses to easier to remember domain name. Looking at an example, the domain name, say www.foo.com can have a ipv4 address such as 195.156.7.8 and a much longer (too long) ipV6 address (I am not going to give an example ;)!)."
