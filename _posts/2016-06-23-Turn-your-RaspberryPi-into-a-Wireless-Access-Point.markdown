@@ -5,11 +5,10 @@ date: "2016-06-23"
 slug: "rpi"
 description: "Setting up your Raspberry Pi 3 as a Wireless Access Point is quite easy. There are so many interesting projects that you can do, if you can play around with this neat little device operating as an access point! I hope that this post will help all its' readers to set up their Pi as a Wireless Access Point and would also help them to start bootstrapping their dream project into place. As a reminder, this setup has only been tested to work with the <b>Raspberry Pi 3</b>"
 category:
-  - views
-  - featured
-#tags:
-#  - examples
-#  - common_tag
+  - Linux
+  - Networking
+tags:
+  - Raspberry Pi
 show_meta: true
 comments: true
 mathjax: true

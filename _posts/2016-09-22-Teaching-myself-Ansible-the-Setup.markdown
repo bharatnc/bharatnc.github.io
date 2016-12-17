@@ -6,11 +6,10 @@ slug: "ansible"
 description: "I decided to teach myself Ansible, which I wanted to have hands-on for a long time. I had to search through the web, Ansible documentation pages and many other sources to get a grip on the tool. Thanks to Ansible - the tool was not too complex and was quite easy to learn. I decided to gather some of my notes to write this article. Hopefully, someone who wants to learn Ansible, will find this page useful. In this article, I would go about setting up my servers and then install Ansible on them."
 
 category:
-  - views
-  - featured
-#tags:
-  #- examples
-  #- common_tag
+  - Automation
+
+tags:
+  - Ansible
 show_meta: true
 comments: true
 mathjax: true

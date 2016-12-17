@@ -6,11 +6,9 @@ slug: "ansible"
 description: "In the  previous post, we have discussed about setting up bare-metal BeagleBone Black servers and installing Ansible on it. In this post, we would be setting up and configuring Ansible and be trying out a few Ansible commands."
 
 category:
-  - views
-  - featured
+  - Automation
 tags:
-  - automation
-  - ansible
+  - Ansible
 show_meta: true
 comments: true
 mathjax: true
