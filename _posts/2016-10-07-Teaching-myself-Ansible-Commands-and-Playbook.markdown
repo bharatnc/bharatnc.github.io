@@ -8,9 +8,9 @@ description: "In the  previous post, we have discussed about setting up bare-met
 category:
   - views
   - featured
-#tags:
-  #- examples
-  #- common_tag
+tags:
+  - automation
+  - ansible
 show_meta: true
 comments: true
 mathjax: true
