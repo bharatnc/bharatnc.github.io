@@ -30,8 +30,21 @@ tags:
 </span>
 </div>
 
+<h3> Quick words about me </h3>
+I would like to summarize my skills quickly over in this section. If you would like to know more about me, then you can go through the other sections as well. <br>
+I am a Graduate Student at University of Colorado Boulder. Electrical and Computer Engineering is my major. I like developing software and I have a keen interest towards DevOps Engineering. <br>
+<h5>My skills :</h5>
+- Languages - Python, Java, Ruby, Bash Scripting <br>
+- Technology - Amazon AWS, Ansible, Vagrant, Docker, Git,  MYSql <br>
+- Web Tools - Flask, Django, HTML, Nodejs <br>
+
+Along with these, a good knowledge of Linux Systems. <br>
+
+One could also have a look at my Resume [here] .
+
+
 <h3> So, who am I and where did I start? </h3>
-I am a Graduate Student at University of Colorado Boulder. Electrical and Computer Engineering is my major. I started off as an undergraduate student in Mechatronics Engineering, back in India. It was one of those times when I got my hands dirty building and exploring all sorts of stuff that would interest me. Yet, I was  not really heading in any specific direction. Over my 4 years of undergraduate study, I did not really develop a finesse or an interest for software or web development.
+I started off as an undergraduate student in Mechatronics Engineering, back in India. It was one of those times when I got my hands dirty building and exploring all sorts of stuff that would interest me. Yet, I was  not really heading in any specific direction. Over my 4 years of undergraduate study, I did not really develop a finesse or an interest for software or web development.
 
 <h3> When I started Software Development ... </h3>
 
@@ -57,9 +70,8 @@ I would like to continue programming, developing applications and hacking togeth
 <br>
 
 
-Apart from Linux Systems, I also develop web-applications. I have some extensive experience working with Python and PHP developing applications. I have used Flask and Django in the past and have also deployed a couple of applications onto Amazon AWS. Now a new found interest in Systems and Network programming. I am trying my best to work on open source softwares and I am really excited to contribute something to the open-source community!<br>
+For a beginning, I am giving my best to work on open source softwares and I am really excited to contribute something to the open-source community! I am  looking forward to sharing my experiences as a Software Developer here on my blog.<br>
 <br>
 
-You can take a look at my Resume [here] .
 
 [here]: http://www.bharatnc.com/cv/
