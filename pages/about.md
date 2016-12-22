@@ -31,7 +31,7 @@ tags:
 </div>
 
 <h3> Quick words about me </h3>
-I would like to summarize my skills quickly over in this section. If you would like to know more about me, then you can go through the other sections as well. <br>
+Some words about me. <br>
 I am a Graduate Student at University of Colorado Boulder. Electrical and Computer Engineering is my major. I like developing software and I have a keen interest towards DevOps Engineering. <br>
 <h5>My skills :</h5>
 - Languages - Python, Java, Ruby, Bash Scripting <br>
