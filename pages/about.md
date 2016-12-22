@@ -35,7 +35,7 @@ tags:
 I am a Graduate Student at University of Colorado Boulder. Electrical and Computer Engineering is my major. I like developing software and I have a keen interest towards DevOps Engineering. <br>
 <h5>My skills :</h5>
 - Languages - Python, Java, Ruby, Bash Scripting <br>
-- Technology - Amazon AWS, Ansible, Vagrant, Docker, Git,  MYSql <br>
+- Technology - Amazon AWS, Ansible, Vagrant, Docker, Git,  MySql <br>
 - Web Tools - Flask, Django, HTML, Nodejs <br>
 
 Along with these, a good knowledge of Linux Systems. <br>
