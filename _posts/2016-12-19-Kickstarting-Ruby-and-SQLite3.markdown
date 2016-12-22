@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using  database with Ruby and Sqlite3"
+title: "Ruby with Sqlite3"
 date: "2016-12-19"
 slug: "Ruby and Sqlite3"
 description: "Get started with Ruby and SQLite3. A fairly straight forward tutorial guiding beginners to begin exploring the world of Ruby and SQLite3. Not to forget, there would be more posts related to SQLite3 based on Python and Ruby programming languages."
