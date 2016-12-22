@@ -43,7 +43,7 @@ Along with these, a good knowledge of Linux Systems. <br>
 One could also have a look at my Resume [here] .
 
 
-<h3> So, who am I and where did I start? </h3>
+<h3> Where did I start? </h3>
 I started off as an undergraduate student in Mechatronics Engineering, back in India. It was one of those times when I got my hands dirty building and exploring all sorts of stuff that would interest me. Yet, I was  not really heading in any specific direction. Over my 4 years of undergraduate study, I did not really develop a finesse or an interest for software or web development.
 
 <h3> When I started Software Development ... </h3>
