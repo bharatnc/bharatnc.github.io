@@ -38,13 +38,13 @@ As a prerequisite, install Python and Python pip (Django uses Python). To instal
 
 <h3>Creating a Virtual Environment and installing Django locally.</h3>
 
-Install python [virtual environment] package. Use sudo pip install virtualenv to install this package.
-Create a new virtual environment using sudo virtualenv <name of the env>.
-Activate the virtual environment using the source bin/activate from within the virtual environment folder.
-To make a local installation of the Django framework - use sudo pip install django==1.9. In this case it installs the 1.9 version of Django.
-After this you can start a new Django Project using `sudo django-admin startproject <project-name>`. This would be the main project directory.
-For every additional app that would be created, we can create a new app using `sudo django-admin startapp <app-name>`.
-The main project would be the master and would control all the applications that are running under it. The following is a rough directory structure for the application that I have:
+1. Install python [virtual environment] package. Use sudo pip install virtualenv to install this package. <br>
+2. Create a new virtual environment using sudo virtualenv <name of the env>. <br>
+3. Activate the virtual environment using the source bin/activate from within the virtual environment folder. <br>
+4. To make a local installation of the Django framework - use sudo pip install django==1.9. In this case it installs the 1.9 version of Django. <br>
+5. After this you can start a new Django Project using `sudo django-admin startproject <project-name>`. This would be the main project directory. <br>
+6. For every additional app that would be created, we can create a new app using `sudo django-admin startapp <app-name>`.
+The main project would be the master and would control all the applications that are running under it. The following is a rough directory structure for the application that I have: <br>
 
 {% highlight ruby %}
 
