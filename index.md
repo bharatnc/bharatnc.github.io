@@ -24,7 +24,7 @@ Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](h
   height="250"
   href="https://twitter.com/{{ site.owner.twitter }}"
   data-widget-id="{{ site.twitter_widget_id }}"
-  data-tweet-limit="2"
+  data-tweet-limit="10"
   data-chrome="noheader nofooter noborders noscrollbar transparent">
   Recent Tweets</a>
 </div>
@@ -54,7 +54,7 @@ Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](h
 </div>
 
 <div class="posts">
-  {% for post in site.posts limit:2 %}
+  {% for post in site.posts limit:10 %}
   {% unless post.category contains "featured" %}
   <div class="post">
     <h1 class="post-title">
