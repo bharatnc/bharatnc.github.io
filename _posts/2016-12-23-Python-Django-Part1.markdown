@@ -28,7 +28,7 @@ p {
 }</style>
 
 
-These Django series aim to familiarize those who are new to Django - help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running.
+This Django blog series aims to familiarize those who are new to Django - help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running.
 
 <h3>Requisites …</h3>
 
