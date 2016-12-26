@@ -49,17 +49,16 @@ The main project would be the master and would control all the applications that
 {% highlight ruby %}
 
 venv
-bin
- include
- lib
- local
-  pip-selfcheck.json
- testprj
---   testapp
---   db.sqlite3
-            --  manage.py
---    testprj
-
+  - bin
+  - include
+  - lib
+  - local
+  - pip-selfcheck.json
+  - testprj
+        --  testapp
+        --  db.sqlite3
+        --  manage.py
+        --  testprj
 
 {% endhighlight %}
 Where `testprj ` is the project that we created and the `testapp` is the app that we created.
