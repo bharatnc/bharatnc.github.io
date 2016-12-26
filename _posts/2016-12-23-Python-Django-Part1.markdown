@@ -3,7 +3,7 @@ layout: post
 title: "Python Django - Part1 - Getting started"
 date: "2016-12-19"
 slug: "Django-part1"
-description: "This Django blog series aims to familiarize those who are new to Django - help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running. "
+description: "This Django blog series aim to familiarize those who are new to Django - help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running. "
 category:
   - Python
   - Django
@@ -28,7 +28,7 @@ p {
 }</style>
 
 
-This Django blog series aims to familiarize those who are new to Django - help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running.
+This Django blog series aim to familiarize those who are new to Django - help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running.
 
 <h3>Requisites …</h3>
 
