@@ -61,7 +61,7 @@ venv
         --  testprj
 
 {% endhighlight %}
-Where `testprj ` is the project that we created and the `testapp` is the app that we created.
+Where `testprj` is the project that we created and the `testapp` is the app that we created.
 
 
 
@@ -70,5 +70,5 @@ Where `testprj ` is the project that we created and the `testapp` is the app tha
 After creating a new project, navigate to the project folder and use `sudo python manage.py` runserver to run the Django webserver. By default it would run at http://127.0.0.0.1:8000 - in other words, at the localhost across port number 8000. Boom! We have got our first Django app running. If you browse to the link - you would see a pretty much plain page that says 'It worked! Congratulations on your first Django-powered page.'
 
 
-[this] : https://pip.pypa.io/en/stable/installing/
-[virtual environment] : http://docs.python-guide.org/en/latest/dev/virtualenvs/
+[this]: https://pip.pypa.io/en/stable/installing/
+[virtual environment]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
