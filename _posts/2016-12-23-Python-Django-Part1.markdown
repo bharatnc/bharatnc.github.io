@@ -3,7 +3,7 @@ layout: post
 title: "Python Django - Part1 - Getting started"
 date: "2016-12-19"
 slug: "Django-part1"
-description: "This Django blog series aim to familiarize those who are new to Django, help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running. "
+description: "This post is on Django, a Python based Web Development framework. It aims at helping beginners to quickly get started with Django and help them have a simple web page up and running. This part of the tutorial gives us a gist of how to install Django itself. "
 category:
   - Python
   - Django
@@ -27,8 +27,7 @@ p {
   text-align: justify
 }</style>
 
-
-This Django blog series aim to familiarize those who are new to Django, help them get started quickly and have a simple web page up and running. This part of the tutorial gives us a gist of how to get started and getting the first app up and running.
+This post is on Django, a Python based Web Development framework. It aims at helping beginners to quickly get started with Django and help them have a simple web page up and running. This part of the tutorial gives us a gist of how to install Django itself. 
 
 <h3>Requisites …</h3>
 
