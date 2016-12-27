@@ -27,7 +27,7 @@ p {
   text-align: justify
 }</style>
 
-This post is on Django, a Python based Web Development framework. This part of the tutorial gives us a gist of how to install Django itself and have a simple web-server up and running.
+This post is on Django, a Python based Web Development framework. It aims at helping beginners to quickly get started with Django and help them have a simple web page up and running. This part of the tutorial gives us a gist of how to install Django itself.
 
 <h3>Requisites …</h3>
 
