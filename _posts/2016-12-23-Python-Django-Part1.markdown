@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Python Django - Part-1 - Getting started"
+title: "Python Django  - Getting started"
 date: "2016-12-24"
-slug: "Django-part-1"
+slug: "Django"
 description: "This post is on Django, a Python based Web Development framework. This part of the tutorial gives us a gist of how to install Django and have a web-server up and running. "
 category:
   - Python
