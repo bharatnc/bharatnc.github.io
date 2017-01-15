@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Grab API data using the Python Requests Module"
-date: "2017-01-14"
-slug: "api"
+title: "Grab API data using the Python Requests Module."
+date: "2016-12-19"
+slug: "Python requests"
 description: "Learn to efficiently grab data using the Python requests module."
 category:
   - Python
-  - api
+  - API
 tags:
   - Python
-  - api
+  - API
 
 show_meta: true
 comments: true
