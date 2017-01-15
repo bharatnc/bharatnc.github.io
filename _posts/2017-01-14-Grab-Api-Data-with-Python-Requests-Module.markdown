@@ -2,7 +2,7 @@
 layout: post
 title: "Grab API data using the Python Requests Module"
 date: "2017-01-14"
-slug: "Python Requests Module"
+slug: "api"
 description: "Learn to efficiently grab data using the Python requests module."
 category:
   - Python
