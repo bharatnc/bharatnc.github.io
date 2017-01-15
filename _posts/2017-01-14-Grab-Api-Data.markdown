@@ -61,7 +61,7 @@ Install the Python requests module if it is not present. Use `pip` to install th
 
 1. To tap the example end-point to get api data, we first start by importing the requests module.
 `import requests`. <br>
-2. Next use the get method to get the contents of the url (endpoint). endpoint = requests.get(url).<br>
+2. Next use the get method to get the contents of the url (endpoint). `endpoint = requests.get(url)`.<br>
 3. This data that is contained in the variable called `endpoint` has to be serialized into a JSON Object. For this purpose, we use the Python `json` module. `data = endpoint.json()`<br>
 4. This data is now a representation of the Python dictionary data-structure. The value can be accessed using the key. In this example, we use `Host` as the key `print data[‘Host’]`.  This prints out the value corresponding to the key `Host`.
 
