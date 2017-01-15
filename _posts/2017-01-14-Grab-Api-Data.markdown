@@ -3,7 +3,7 @@ layout: post
 title: "Grab API data using the Python Requests Module."
 date: "2017-01-14"
 slug: "Python requests"
-description: "Learn to efficiently grab data using the Python requests module."
+description: "The python ‘requests’ module helps us to carry out HTTP operations like POST, GET, PUT or DELETE on a given endpoint. Learn to efficiently grab data using the Python requests module."
 category:
   - Python
   - API
@@ -29,13 +29,13 @@ p {
 }</style>
 
 
-##Using Python Request Module to Grab API data.
+<h2>Using Python Request Module to Grab API data. </h2>
 
 
 The python ‘requests’ module helps us to carry out HTTP operations like POST, GET, PUT or DELETE on a given endpoint. This same module can be used to grab data from any given API endpoint. Now, the end-points that I am using in this post are sample JSON endpoints - where JSON stands for Javascript Object Notation.
 
 
-##An example JSON end point….
+<h2>An example JSON end point… </h2>
 
 
 There are tons of sample JSON endpoints that you can use - out there on the web. I am using this one from [here].
@@ -55,7 +55,7 @@ There are tons of sample JSON endpoints that you can use - out there on the web.
 {% endhighlight%}
 
 
-##Using the  requests module ...
+<h2>Using the  requests module ... </h2>
 
 Install the Python requests module if it is not present. Use `pip` to install the requests module. Eg. `sudo pip install requests`.
 
