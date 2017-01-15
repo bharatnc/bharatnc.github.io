@@ -59,21 +59,32 @@ There are tons of sample JSON endpoints that you can use - out there on the web.
 
 Install the Python requests module if it is not present. Use `pip` to install the requests module. Eg. `sudo pip install requests`.
 
-To tap the example end-point to get api data, we use the requests module as follows.
+1. To tap the example end-point to get api data, we first start by importing the requests module.
+`import requests`. <br>
+2. Next use the get method to get the contents of the url (endpoint). endpoint = requests.get(url).<br>
+3. This data that is contained in the variable called `endpoint` has to be serialized into a JSON Object. For this purpose, we use the Python `json` module. `data = endpoint.json()`<br>
+4. This data is now a representation of the Python dictionary data-structure. The value can be accessed using the key. In this example, we use `Host` as the key `print data[‘Host’]`.  This prints out the value corresponding to the key `Host`.
+
+
+ <h2> Putting it all together </h2>
+
+ Putting it all together into a function called `get_api_data()` which takes an url (JSON endpoint). In this case, the code prints out the value corresponding to our key called `Hosts`.
+
 {% highlight ruby %}
 import requests #importing the Python requests module
-
 def get_api_data(url):
-	#Getting data from specified endpoint using the ‘GET’ operation
-endpoint_operation = requests.get(url)
-#process data as JSON object using the json function
-data = endpoint_operation.json()
-#print required data using the key of the JSON object
-print data[‘Host’]
-
-get_api_data(‘http://headers.jsontest.com/’)
+  endpoint = requests.get(url)
+  data = endpoint.json()
+  print data[‘Host’]
+if __name __ == '__main__':
+  get_api_data(‘http://headers.jsontest.com/’)
 
 {% endhighlight%}
+
+This example gives us a very high-level overview of how the python `requests` module can be used to grab data from APIs.
+
+
+
 
 
 [here]: http://headers.jsontest.com/
