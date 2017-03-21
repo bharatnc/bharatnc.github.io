@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Linux users- adding and managing them ... basics."
+date: "2017-04-04"
+slug: "Linux Users"
+description: "Adding and managing users is oneof the most essential tasks of anyone who uses a Linux System. I am going to structure this post like an Q and A format."
+category:
+  - Linux
+tags:
+  - Linux
+  - Manage Users
+
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+hide_printmsg: false
+summaryfeed: false
+---
+
+
+<style>
+p {
+  text-align: justify
+}</style>
+
+
+###How do I create a new user?
+
+Ensure that you are the sudo user. If not, enter the sudo mode using `sudo su` and enter the password when you are prompted! Next, to add an user, use the command `useradd <username>`. Now, after creating the new user, go ahead and set the user a password using `passwd <username>` command. You would be prompted with a little menu to type the **New UNIX  password** and to **Retype the new UNIX password**, to complete setting up the password for this user.
+
+###How do I change the password for this new user?
+
+Use `passwd <username>` to change the existing password!
+
+
+###Where is the home directory for the new user created?
+
+Usually it is created at `/home/<username>` Egs: /home/newuser1, /home/bharatnc ..
+
+###Creating a user with a different home directory location?
+
+Yes, completely possible. Use the -d flag to achieve this. Like `useradd -d <path to the directory>`. Whatever path that you enter, that will be the home directory of the user that you will be creating.   <br>
+
+You can also add user without a home directory using the `-M` flag.
+
+###How to create a user with a specific userid or groupid?
+
+To create a user with a specific userid, use the command `useradd -u <user id number that you want> <username>`. Eg: `useradd -u 1006 username1`
+
+
+Use the flag -g to create a user with a specific group id. So, you can create a user with both the custom user and group ids like this: `useradd -u <userid that you want> -g <groupid that you want> <username>`. Eg: useradd -u 1006 -g 1005 username1
+
+
+###Verifying the created user?
+
+Make use of the etc/passwd file for this purpose - `cat /etc/passwd | grep <your username>`
+
+###Adding a user to a user group?
+
+Use `useradd -G <user group> <username>`. For adding to multiple groups, just separate them using a ",". Eg: `useradd -G grp1, grp2 user1`
+
+###What are some other parameters that you can play with?
+
+Just add these flags when you start creating a user:
+
+1. `-s /bin/bash` - use this flag to set the default user shell for the user. For no shell use /usr/sbin/nologin option with the -s flag.
+2. `-c <user custom comment>` -use this flag to add custom comments for the added user.
+3. `-N` - This flag creates a user without a group.
+4. `-r` - This flag creates a System User.
