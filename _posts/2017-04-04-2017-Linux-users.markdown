@@ -3,12 +3,11 @@ layout: post
 title: "Linux users- adding and managing them ... basics."
 date: "2017-04-04"
 slug: "Linux Users"
-description: "Adding and managing users is oneof the most essential tasks of anyone who uses a Linux System. I am going to structure this post like an Q and A format."
+description: "Adding and managing users is one of the most essential tasks of anyone who uses a Linux System. I am going to structure this post like an Q and A format."
 category:
   - Linux
 tags:
   - Linux
-  - Manage Users
 
 show_meta: true
 comments: true
