@@ -3,7 +3,7 @@ layout: post
 title: "Writing Dockerfiles"
 date: "2017-04-04"
 slug: "Dockerfile"
-description: "Adding and managing users is one of the most essential tasks of anyone who uses a Linux System. I am going to structure this post like an Q and A format."
+description: "This post introduces to the concept of Dockerfile and how to write a proper Dockerfile and also a docker-compose.yml file. The post will be updated to add in a more extensive explanation on writing and managing these Dockerfiles."
 category:
   - Docker
 tags:
@@ -26,14 +26,14 @@ p {
   text-align: justify
 }</style>
 
-### Writing a Dockerfile.
+## Writing a Dockerfile.
 
 ### Basic Components:
-**FROM** keyword - This is used to specify the image that has to be used while building a Dockerfile.
-**ADD** keyword. This is used to add a directory on the host machine to a relative location on the container. Takes two parameters source and destination directories
-**WORKDIR** keyword. This is used to specify the working directory in a container.
-**RUN** keyword. This is used to specify the commands that have to be run when bringing up a container. In other words, installation that is required can be done using this command.
-**CMD** keyword. This contains a list of arguments that can be used to execute a service or a program.
+**FROM** keyword - This is used to specify the image that has to be used while building a Dockerfile. <br>
+**ADD** keyword. This is used to add a directory on the host machine to a relative location on the container. Takes two parameters source and destination directories <br>
+**WORKDIR** keyword. This is used to specify the working directory in a container. <br>
+**RUN** keyword. This is used to specify the commands that have to be run when bringing up a container. In other words, installation that is required can be done using this command. <br>
+**CMD** keyword. This contains a list of arguments that can be used to execute a service or a program. <br>
  
 ### Sample Dockerfile:
 
@@ -56,13 +56,13 @@ flask
  
  
 ### Basic components:
-**version** - version of the dockerfile. More information about the ‘version’ can be found on the version link
-**services** - defines the services that are going to be defined in the docker-compose.yml file.
+**version** - version of the dockerfile. More information about the ‘version’ can be found on the version link. <br>
+**services** - defines the services that are going to be defined in the docker-compose.yml file. <br>
 ### keywords within these services:
-**build** : Specifies the build directory for the docker container. Use “.” for referencing the current build directory
-**ports:** Can be used to bind the containers’ port and the port on the host machine volumes
-**volumes**: Directories can be mounted as volumes and this keyword is used to specify        the folder that has to be mounted.
-**image** - This keyword is mainly used for specifying the type of image that has to be used for a particular service.
+**build** : Specifies the build directory for the docker container. Use “.” for referencing the current build directory. <br>
+**ports:** Can be used to bind the containers’ port and the port on the host machine volumes. <br>
+**volumes**: Directories can be mounted as volumes and this keyword is used to specify the folder that has to be mounted. <br>
+**image** - This keyword is mainly used for specifying the type of image that has to be used for a particular service. <br>
  
 ### Sample docker-compose.yml file.
  
