@@ -3,7 +3,7 @@ layout: post
 title: "Short post on running background processes"
 date: "2017-09-12"
 slug: "background and nohup"
-description: "This is a very very short post for running background processes. What does nohup does and how it is different from running a process by using &. Short read."
+description: "This is a very very short post for running background processes. What does nohup do and how it is different from running a process by using &. Short read."
 category:
   - Linux
 tags:
