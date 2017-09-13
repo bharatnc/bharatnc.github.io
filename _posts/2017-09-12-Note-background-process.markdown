@@ -27,14 +27,14 @@ p {
 }</style>
 
 
-###Running processes in a shell
+### Running processes in a shell
 
 If you want to run a process in a shell and want to continue working on other development work, then, one usually would use the "&" operator appended to the end of the application that they are wanting to run. So, what does "&" do?
 
-###Using a &.
+### Using &.
 The "&" usually is used like this : `python sample.py &`. This creates a child process under the existing shell and returns after the child process completes. The command usually runs in a sub-shell. When you close the main terminal, then all these processes receive a `SIGHUP` signal and are automatically terminated.
 
-###Using nohup as opposed to &
+### Using nohup as opposed to &
 
 The "nohup" keyword is a more professional way to run an application. These can be services or other programs that should remain open and be relatively stable - unlike when running them using a `&` operator. <br>
 
