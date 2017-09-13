@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Short post on running background processes"
-date: "2017-09-12"
-slug: "nohup and &"
-description: "This post explains the use of nohup and & while running programs as processes."
+date: "2017-04-04"
+slug: "background and nohup"
+description: "Very short post for using & and nohup."
 category:
   - Linux
 tags:
