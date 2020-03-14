@@ -24,7 +24,6 @@ tags:
 <div class="post-author text-center">                       
             <img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/>
 <span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
-[comment]: <a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: top;"></i></a>
 <a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="iconm iconm-linkedin2"></i></a>
 </span>
 </div>
