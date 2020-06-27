@@ -5,7 +5,7 @@ title: Blog
 description: "Blogging on ...."
 ---
 
-## [Blog for DevOps, Software and Web Development](https://github.com/bharatnc)
+## [Bharat Nallan on Software and Systems](https://github.com/bharatnc)
 <!--
 Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 
