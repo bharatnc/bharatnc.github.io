@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 # About/contact
 author:
   name:              Bharat Nallan
-  url:               https://twitter.com/bharatnc
+  url:               https://twitter.com/bharat_nc
   avatar:         profile_pic.JPG
   #email:
 
@@ -46,7 +46,7 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        bharatnc
+  twitter:        bharat_nc
   facebook:
   github:         bharatnc
   stackexchange:
@@ -77,7 +77,7 @@ links:
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/bharatnc
+    url: https://twitter.com/bharat_nc
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
